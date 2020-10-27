@@ -4,7 +4,7 @@
 
 A curated list of awesome publications on kpi analysis.  
 Table of Contents  
-[toc](#1)
+[toc]
 ##Conferences and Journals  
 Kpis are a type of valuable data generated from many sources such as software, systems, networks, devices, etc.   
 They have also been used for a number of tasks related to reliability, security, performance, and energy. Therefore, the research of log analysis has attracted interests from different research areas.  
@@ -29,12 +29,12 @@ They have also been used for a number of tasks related to reliability, security,
 	- Conferences:[KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html) | [CIKM](https://dblp.uni-trier.de/db/conf/cikm/index.html) | [ICDM](https://dblp.uni-trier.de/db/conf/icdm/index.html) | [BigData](https://dblp.uni-trier.de/db/conf/bigdata/index.html)
 	- Journals:[TKDE](https://dblp.uni-trier.de/db/journals/tkde/index.html) | [TBD](https://dblp.uni-trier.de/db/journals/tbd/index.html)
 - Industrial conferneces:  
-	- [SREcon](https://www.usenix.org/conferences/byname/925) | [GOPS](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)
+	- [SREcon](https://www.usenix.org/conferences/byname/925) | [GOPS](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)  
 ##Competitions  
-XXXX  
-##<span id="1">Datasets</span>
+XXXX    
+##<span id="1">Datasets</span>  
   
-XXX  
+XXX    
 ##Research Group  
 
 
