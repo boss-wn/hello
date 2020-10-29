@@ -54,14 +54,14 @@ They have also been used for a number of tasks related to reliability, security,
 | [Dan Pei](https://netman.aiops.org/~peidan/),Tsinghua  | [Shenglin Zhang](http://nkcs.iops.ai/shenglinzhang/),Nankai  |[Shaoxu Song](http://ise.thss.tsinghua.edu.cn/sxsong/),Tsinghua  
 |  1   |   1  |   1  |  
   
-##<span id="3">Anomaly Detection</span>
-###<span id="4">Univariate KPI</span>
-####<span id="5">Supervised Learning</span>
+## <span id="3">Anomaly Detection</span>
+### <span id="4">Univariate KPI</span>
+#### <span id="5">Supervised Learning</span>
 - [KDD 2018] [Deep r-th Root of Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval](https://doi.org/10.1145/3219819.3220108)
 - [IMC 2015] [Opprentice: Towards Practical and Automatic Anomaly Detection Through Machine Learning](http://dx.doi.org/10.1145/2815675.2815679.)  
 - [KDD 2015] [Learning a Hierarchical Monitoring System for Detecting and Diagnosing Service Issues](http://dx.doi.org/10.1145/2783258.2788624)  
 - [KDD 2015] [Generic and Scalable Framework for Automated Time-series Anomaly Detection](http://dx.doi.org/10.1145/2783258.2788611)
-####<span id="6">Unsupervised Learning</span>
+#### <span id="6">Unsupervised Learning</span>
 - [VLDB 2020] [Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases]( https://doi.org/10.14778/3389133.3389136)
 - [IWQoS 2020] [Localizing Failure Root Causes in a Microservice through Causality Inference](https://ieeexplore.ieee.org/document/9213058)  
 - [KDD 2019] [Time-Series Anomaly Detection Service at Microsoft](https://doi.org/10.1145/3292500.3330680)  
@@ -71,36 +71,36 @@ They have also been used for a number of tasks related to reliability, security,
 - [IPCCC 2018] [Robust and Unsupervised KPI Anomaly Detection Based on Conditional Variational Autoencoder](https://ieeexplore.ieee.org/document/8710885)  
 - [KDD 2017] [Anomaly Detection in Streams with Extreme Value Theory](https://doi.org/10.1145/3097983.3098144)  
 - [SIGMOD 2016] [DBSherlock: A Performance Diagnostic Tool for Transactional Databases](http://dx.doi.org/10.1145/2882903.2915218)              
-####<span id="7">Semi-Supervised Learning</span>   
+#### <span id="7">Semi-Supervised Learning</span>   
 - [KDD 2019] [An Adaptive Approach for Anomaly Detector Selection and Fine-Tuning in Time Series](https://doi.org/10.1145/3326937.3341253)
 - [ATC 2019] [Cross-dataset Time Series Anomaly Detection for Cloud Systems](https://www.usenix.org/conference/atc19/presentation/zhang-xu)    
 - [BigData 2019] [Intelligent Detection of Large-Scale KPI Streams Anomaly Based on Transfer Learning](https://doi.org/10.1007/978-981-15-1899-7_26)
 - [KDD 2018] [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://doi.org/10.1145/3219819.3219845) 
 - [IPCCC 2018] [Rapid Deployment of Anomaly Detection Models for Large Number of Emerging KPI Streams](https://ieeexplore.ieee.org/document/8711315/)    
 - [PATTERN 2018] [Semi-supervised time series classification on positive and unlabeled problems using cross-recurrence quantification analysis](https://doi.org/10.1016/j.patcog.2018.02.030)  
-###<span id="8">Multivariate KPIs</span>
+### <span id="8">Multivariate KPIs</span>
 - [ASE 2020] [Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems ]() 
 - [KDD 2020] [USAD : UnSupervised Anomaly Detection on Multivariate Time](https://doi.org/10.1145/3394486.3403392)
 - [KDD 2019] [Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network](https://doi.org/10.1145/3292500.3330672)   
 - [AAAI 2019] [A Deep Neural Network for Unsupervised Anomaly  Detection and Diagnosis in Multivariate Time Series Data](https://www.aaai.org/ojs/index.php/AAAI/article/view/3942) 
-###<span id="9">Multi-Dimension</span>
+### <span id="9">Multi-Dimension</span>
 - [INFOCOM 2019] [Detecting Anomaly in Large-scale Network using Mobile Crowdsourcing](https://ieeexplore.ieee.org/document/8737541/) 
 - [MobiCom 2015] [ABSENCE: Usage-based Failure Detection in Mobile Networks](http://dx.doi.org/10.1145/2789168.2790127)  
 - [SIGMETRICS 2015] [Detecting and Localizing End-to-End Performance Degradation for Cellular Data Services](https://dl.acm.org/doi/10.1145/2745844.2745892) 
-##<span id="10">Clustering</span>
+## <span id="10">Clustering</span>
 - [KDD 2018] [Deep r-th Root of Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval](https://dl.acm.org/doi/10.1145/3219819.3220108)
 - [IWQoS 2018] [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://ieeexplore.ieee.org/document/8624168)
 - [Mid 2017] [Sieve: Actionable Insights from Monitored Metrics in Distributed Systems](https://dl.acm.org/doi/10.1145/3135974.3135977)
 - [VLDB 2015] [YADING: Fast Clustering of Large-Scale Time Series Data](https://dl.acm.org/doi/10.14778/2735479.2735481)
-###<span id="11">Correlation Analysis</span>
+### <span id="11">Correlation Analysis</span>
 - [IWQoS 2019] [CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting](https://doi.org/10.1145/3326285.3329048)  
 - [KDD 2014] [Correlating Events with Time Series for Incident Diagnosis](http://dx.doi.org/10.1145/2623330.2623374)  
-###<span id="12">Extension</span>
+### <span id="12">Extension</span>
 - [IEEE TNSM 2019] [Automatic and Generic Periodicity Adaptation for KPI Anomaly Detection](https://ieeexplore.ieee.org/document/8723601)
 - [INFOCOM 2019] [Label-Less: A Semi-Automatic Labelling Tool for KPI Anomalies](https://ieeexplore.ieee.org/document/8737429) 
 - [ISSRE 2018] [Robust and Rapid Adaption for Concept Drift in Software System Anomaly Detection](https://ieeexplore.ieee.org/document/8539065)
 - [CoNEXT 2015] [Rapid and Robust Impact Assessment of Software Changes in Large Internet-based Services]( http://dx.doi.org/10.1145/2716281.2836087) 
-##<span id="13">Datasets</span>
+## <span id="13">Datasets</span>
 AIOps Challenge 2020 Datasets:[https://github.com/NetManAIOps/AIOps-Challenge-2020-Data](https://github.com/NetManAIOps/AIOps-Challenge-2020-Data)  
 AIOps Challenge 2019 Datasets:[https://github.com/NetManAIOps/MultiDimension-Localization](https://github.com/NetManAIOps/MultiDimension-Localization)  
 AIOps Challenge 2018 Datasets:[https://github.com/NetManAIOps/KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)  
@@ -110,7 +110,7 @@ PreFix DataSets:[https://github.com/NetManAIOps/PreFix](https://github.com/NetMa
 Bagel Datasets:[https://github.com/NetManAIOps/Bagel](https://github.com/NetManAIOps/Bagel)   
 Squeeze Datasets:[https://github.com/NetManAIOps/Squeeze](https://github.com/NetManAIOps/Squeeze)     
 Dount Datasets:[https://github.com/NetManAIOps/donut](https://github.com/NetManAIOps/donut) 
-##<span id="14">Open Source Code</span>
+## <span id="14">Open Source Code</span>
 [Java] [Surus](https://github.com/Netflix/Surus):A collection of tools for analysis in Pig and Hive.  
 [Python] [TODS](https://github.com/datamllab/tods): TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.  
 [Python] [skyline](https://github.com/earthgecko/skyline): Skyline is a near real time anomaly detection system.  
@@ -120,10 +120,10 @@ Dount Datasets:[https://github.com/NetManAIOps/donut](https://github.com/NetManA
 [Python] [NAB](https://github.com/numenta/NAB): The Numenta Anomaly Benchmark: NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications.  
 [R] [AnomalyDetection](https://github.com/twitter/AnomalyDetection): AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.  
 [R] [anomalize](https://cran.r-project.org/web/packages/anomalize/): The 'anomalize' package enables a "tidy" workflow for detecting anomalies in data. 
-###<span id="15">Credits</span>
+### <span id="15">Credits</span>
 - Anomaly detection [Resources](https://github.com/yzhao062/anomaly-detection-resources)
 - Log survey [Logpai](https://github.com/logpai/log-survey)
-##<span id="16">License</span>     
+## <span id="16">License</span>     
 
 
 
