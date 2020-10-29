@@ -27,25 +27,31 @@ Kpis are a type of valuable data generated from many sources such as software, s
 They have also been used for a number of tasks related to reliability, security, performance, and energy. Therefore, the research of log analysis has attracted interests from different research areas.    
 
 - System area  
-	- Conferences:[(OSDI)](https://dblp.uni-trier.de/db/conf/osdi/index.html) | [(SOSP)](https://dblp.uni-trier.de/db/conf/sosp/index.html) | [ATC](https://dblp.uni-trier.de/db/conf/atc/index.html) | [(ICDCS)](https://dblp.uni-trier.de/db/conf/icdcs/index.html)  
+	- Conferences:[(OSDI)](https://dblp.uni-trier.de/db/conf/osdi/index.html) | [(SOSP)](https://dblp.uni-trier.de/db/conf/sosp/index.html) | [ATC](https://dblp.uni-trier.de/db/conf/atc/index.html) | [(ICDCS)](https://dblp.uni-trier.de/db/conf/icdcs/index.html) | [SIGMETRICS](https://dblp.uni-trier.de/db/conf/sigmetrics/index.html) | [Middleware](https://dblp.uni-trier.de/db/conf/middleware/index.html)  
 	- Journals:[(TC)](https://dblp.uni-trier.de/db/journals/tc/index.html) | [(TOCS)](https://dblp.uni-trier.de/db/journals/tocs/index.html) | [(TPDS)](https://dblp.uni-trier.de/db/journals/tpds/index.html)  
 - Cloud computing area:
 	- Conferences:[(SoCC)](https://dblp.uni-trier.de/db/conf/cloud/index.html) | [(CLOUD)](https://dblp.uni-trier.de/db/conf/IEEEcloud/index.html)
 	- Journals:[(TCC)](https://dblp.uni-trier.de/db/journals/tcc/index.html)
 - Networking area:  
-	- Conferences:[(NSDI)](https://dblp.uni-trier.de/db/conf/nsdi/index.html) | [INFOCOMM](https://dblp.uni-trier.de/db/conf/infocom/index.html)  
+	- Conferences:[(NSDI)](https://dblp.uni-trier.de/db/conf/nsdi/index.html) | [INFOCOMM](https://dblp.uni-trier.de/db/conf/infocom/index.html) | [IMC](http://www.sigcomm.org/events/imc-conference) | [IWQoS](https://dblp.uni-trier.de/db/conf/iwqos/index.html) | [IEEE TNSM](https://dblp.uni-trier.de/db/journals/tnsm/index.html) | [IPCCC](https://dblp.uni-trier.de/db/conf/ipccc/index.html) | [SIGMOD](https://dblp.uni-trier.de/db/conf/sigmod/index.html) | [MobiCom](https://dblp.uni-trier.de/db/conf/mobicom/index.html) | [CoNEXT](https://dblp.uni-trier.de/db/conf/conext/index.html) 
 	- Journals:[(TON)](https://dblp.uni-trier.de/db/journals/ton/index.html)  
 - Software engineering area  
-	- Conferences:[(ICSE)](https://dblp.uni-trier.de/db/conf/icse/index.html) | [(FSE)](https://dblp.uni-trier.de/db/conf/fse/index.html) | [(ASE)](https://dblp.uni-trier.de/db/conf/kbse/index.html)  
+	- Conferences:[(ICSE)](https://dblp.uni-trier.de/db/conf/icse/index.html) | [(FSE)](https://dblp.uni-trier.de/db/conf/fse/index.html) | [ASE](https://dblp.uni-trier.de/db/conf/kbse/index.html)  
 	- Journals:[(TSE)](https://dblp.uni-trier.de/db/journals/tse/index.html) | [(TOSEM)](https://dblp.uni-trier.de/db/journals/tosem/index.html)  
 - Reliability area:
-	- Conferences:[(DSN)](https://dblp.uni-trier.de/db/conf/dsn/index.html) | [(ISSRE)](https://dblp.uni-trier.de/db/conf/issre/index.html) | [(SRDS)](https://dblp.uni-trier.de/db/conf/srds/index.html)  
+	- Conferences:[(DSN)](https://dblp.uni-trier.de/db/conf/dsn/index.html) | [ISSRE](https://dblp.uni-trier.de/db/conf/issre/index.html) | [(SRDS)](https://dblp.uni-trier.de/db/conf/srds/index.html)  
 	- Journals:[(TDSC)](https://dblp.uni-trier.de/db/journals/tdsc/index.html) | [(TR)](https://dblp.uni-trier.de/db/journals/tr/index.html)
 - Security area:  
-	- Conferences:[KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html) | [(CIKM)](https://dblp.uni-trier.de/db/conf/cikm/index.html) | [(ICDM)](https://dblp.uni-trier.de/db/conf/icdm/index.html) | [BigData](https://dblp.uni-trier.de/db/conf/bigdata/index.html)
-	- Journals:[(TKDE)](https://dblp.uni-trier.de/db/journals/tkde/index.html) | [(TBD)](https://dblp.uni-trier.de/db/journals/tbd/index.html)
+	- Conferences:[CCS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=83847) | [DSN](http://dsn2021.ntu.edu.tw/) 
+	- Journals:[TDSC](https://dblp.uni-trier.de/db/journals/tdsc/index.html)
+- AI and Bigdata area:   
+	- Conferences:[KDD](https://dblp.uni-trier.de/db/conf/kdd/index.html) | [(CIKM)](https://dblp.uni-trier.de/db/conf/cikm/index.html) | [(ICDM)](https://dblp.uni-trier.de/db/conf/icdm/index.html) | [BigData](https://dblp.uni-trier.de/db/conf/bigdata/index.html) | [AAAI](https://dblp.uni-trier.de/db/conf/aaai/index.html)
+	- Journals:[(TKDE)](https://dblp.uni-trier.de/db/journals/tkde/index.html) | [(TBD)](https://dblp.uni-trier.de/db/journals/tbd/index.html) 
+- Database and Pattern recognition area:
+	- Conferences:[VLDB](https://dblp.uni-trier.de/db/conf/vldb/index.html) | 
+	- Journals:[Pattern](https://dblp.uni-trier.de/db/journals/pr/index.html)
 - Industrial conferneces:  
-	- [(SREcon)](https://www.usenix.org/conferences/byname/925) | [(GOPS)](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)
+	- [(SREcon)](https://www.usenix.org/conferences/byname/925) | [(GOPS)](https://www.bagevent.com/event/GOPS2019-shenzhen?bag_track=bagevent)  
   
 ## <span id="2">Research Groups</span>   
  
@@ -90,7 +96,7 @@ They have also been used for a number of tasks related to reliability, security,
 ## <span id="10">Clustering</span>
 - [KDD 2018] [Deep r-th Root of Rank Supervised Joint Binary Embedding for Multivariate Time Series Retrieval](https://dl.acm.org/doi/10.1145/3219819.3220108)
 - [IWQoS 2018] [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://ieeexplore.ieee.org/document/8624168)
-- [Mid 2017] [Sieve: Actionable Insights from Monitored Metrics in Distributed Systems](https://dl.acm.org/doi/10.1145/3135974.3135977)
+- [Middleware 2017] [Sieve: Actionable Insights from Monitored Metrics in Distributed Systems](https://dl.acm.org/doi/10.1145/3135974.3135977)
 - [VLDB 2015] [YADING: Fast Clustering of Large-Scale Time Series Data](https://dl.acm.org/doi/10.14778/2735479.2735481)
 ### <span id="11">Correlation Analysis</span>
 - [IWQoS 2019] [CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting](https://doi.org/10.1145/3326285.3329048)  
@@ -120,7 +126,7 @@ Dount Datasets:[https://github.com/NetManAIOps/donut](https://github.com/NetManA
 [Python] [NAB](https://github.com/numenta/NAB): The Numenta Anomaly Benchmark: NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications.  
 [R] [AnomalyDetection](https://github.com/twitter/AnomalyDetection): AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.  
 [R] [anomalize](https://cran.r-project.org/web/packages/anomalize/): The 'anomalize' package enables a "tidy" workflow for detecting anomalies in data. 
-### <span id="15">Credits</span>
+## <span id="15">Credits</span>
 - Anomaly detection [Resources](https://github.com/yzhao062/anomaly-detection-resources)
 - Log survey [Logpai](https://github.com/logpai/log-survey)
 ## <span id="16">License</span>     
