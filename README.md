@@ -119,7 +119,10 @@ They have also been used for a number of tasks related to reliability, security,
 - [SIGMETRICS 2015] [Detecting and Localizing End-to-End Performance Degradation for Cellular Data Services](https://dl.acm.org/doi/10.1145/2745844.2745892) 
 
 
+All lists are in alphabetical order. 
+A repository is considered "not maintained" if the latest commit is > 1 year old, or explicitly mentioned by the authors.
 ## <span id="17">Anomaly Detection Software</span>
+
 
 | Name          | Language       | Pitch     | License | Maintained
 | ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
