@@ -181,23 +181,31 @@ This section includes some time-series software for anomaly detection-related ta
 - [IWQoS 2018] [Robust and Rapid Clustering of KPIs for Large-Scale Anomaly Detection](https://ieeexplore.ieee.org/document/8624168)
 - [Middleware 2017] [Sieve: Actionable Insights from Monitored Metrics in Distributed Systems](https://dl.acm.org/doi/10.1145/3135974.3135977)
 - [VLDB 2015] [YADING: Fast Clustering of Large-Scale Time Series Data](https://dl.acm.org/doi/10.14778/2735479.2735481)
+
 ### <span id="11">Correlation Analysis</span>
+
 - [IWQoS 2019] [CoFlux: Robustly Correlating KPIs by Fluctuations for Service Troubleshooting](https://doi.org/10.1145/3326285.3329048)  
-- [KDD 2014] [Correlating Events with Time Series for Incident Diagnosis](http://dx.doi.org/10.1145/2623330.2623374)  
+- [KDD 2014] [Correlating Events with Time Series for Incident Diagnosis](http://dx.doi.org/10.1145/2623330.2623374) 
+ 
 ### <span id="12">Extension</span>
+
 - [IEEE TNSM 2019] [Automatic and Generic Periodicity Adaptation for KPI Anomaly Detection](https://ieeexplore.ieee.org/document/8723601)
 - [INFOCOM 2019] [Label-Less: A Semi-Automatic Labelling Tool for KPI Anomalies](https://ieeexplore.ieee.org/document/8737429) 
 - [ISSRE 2018] [Robust and Rapid Adaption for Concept Drift in Software System Anomaly Detection](https://ieeexplore.ieee.org/document/8539065)
-- [CoNEXT 2015] [Rapid and Robust Impact Assessment of Software Changes in Large Internet-based Services]( http://dx.doi.org/10.1145/2716281.2836087) 
+- [CoNEXT 2015] [Rapid and Robust Impact Assessment of Software Changes in Large Internet-based Services]( http://dx.doi.org/10.1145/2716281.2836087)
+ 
 ## <span id="13">Datasets</span>
+
 [Univariate KPI anomaly detection] AIOps Challenge 2018 Datasets: [https://github.com/NetManAIOps/KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)     
 [Univariate KPI anomaly detection] Bagel Datasets: [https://github.com/NetManAIOps/Bagel](https://github.com/NetManAIOps/Bagel)     
 [Univariate KPI anomaly detection] Dount Datasets: [https://github.com/NetManAIOps/donut](https://github.com/NetManAIOps/donut)    
 [Multivariate KPIs anomaly detection] OmniAnomaly Datasets: [https://github.com/NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly)     
 [Multi-dimension KPIs hotspot localization] AIOps Challenge 2019 Datasets: [https://github.com/NetManAIOps/MultiDimension-Localization](https://github.com/NetManAIOps/MultiDimension-Localization)   
 [Multi-dimension KPIs hotspot localization] Squeeze Datasets: [https://github.com/NetManAIOps/Squeeze](https://github.com/NetManAIOps/Squeeze)       
-[Trace anomaly detection] TraceAnomaly Datasets: [https://github.com/NetManAIOps/TraceAnomaly](https://github.com/NetManAIOps/TraceAnomaly) 
+[Trace anomaly detection] TraceAnomaly Datasets: [https://github.com/NetManAIOps/TraceAnomaly](https://github.com/NetManAIOps/TraceAnomaly)
+ 
 ## <span id="19">Benchmark Datasets</span>
+
 - Numenta's [NAB](https://github.com/numenta/NAB)
 > NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
 - Yahoo's [Webscope S5](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
@@ -212,7 +220,7 @@ This section includes some time-series software for anomaly detection-related ta
   
   The dataset consists of KPI (key performace index) time series data from many real scenarios of Internet companies with ground truth label. KPIs fall into two broad categories: service KPIs and machine KPIs. Service KPIs are performance metrics that reflect the size and quality of a Web service, such as page response time, page views, and number of connection errors. Machine KPIs are performance indicators that reflect the health of the machine (server, router, switch), such as CPU utilization, memory utilization, disk IO, network card throughput, etc.
 
-Dataset Descriptions:
+Dataset Descriptions: 
 
 In order to train the anomaly detection algorithm, the training KPI data provided by us is shown in table 1, including four columns: KPI ID, timestamp, the value of the KPI at that time, and whether the time is abnormal (label).
 
@@ -248,7 +256,8 @@ In order to train the anomaly detection algorithm, the training KPI data provide
 ## <span id="15">Credits</span>
 - Anomaly detection [Yzhao062](https://github.com/yzhao062/anomaly-detection-resources)
 - Log survey [Logpai](https://github.com/logpai/log-survey)  
-- Anomaly detection [Hoya012](https://github.com/hoya012/awesome-anomaly-detection)
+- Anomaly detection [Hoya012](https://github.com/hoya012/awesome-anomaly-detection) 
+- Awesome-TS-anomaly-detection [rob-med](https://github.com/rob-med/awesome-TS-anomaly-detection)
 ## <span id="16">License</span>     
 
 
