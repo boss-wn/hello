@@ -142,7 +142,7 @@ They have also been used for a number of tasks related to reliability, security,
 [Univariate KPI anomaly detection] Yahoo's Webscope S5: [https://github.com/waico/SkAB](https://github.com/waico/SkAB)    
 [Multivariate KPIs anomaly detection] OmniAnomaly Datasets: [https://github.com/NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly)    
 [Multivariate KPIs anomaly detection] SKAB Datasets: [https://github.com/waico/SkAB](https://github.com/waico/SkAB)  
-[Multi-dimension KPIs hotspot localization] AIOps Challenge 2019 Datasets: [https://github.com/NetManAIOps/MultiDimension-Localization】(https://github.com/NetManAIOps/MultiDimension-Localization)     
+[Multi-dimension KPIs hotspot localization] AIOps Challenge 2019 Datasets: [https://github.com/NetManAIOps/MultiDimension-Localization](https://github.com/NetManAIOps/MultiDimension-Localization)     
 [Multi-dimension KPIs hotspot localization] Squeeze Datasets: [https://github.com/NetManAIOps/Squeeze](https://github.com/NetManAIOps/Squeeze)           
 [Trace anomaly detection] TraceAnomaly Datasets: [https://github.com/NetManAIOps/TraceAnomaly](https://github.com/NetManAIOps/TraceAnomaly)
  
