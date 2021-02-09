@@ -138,7 +138,7 @@ They have also been used for a number of tasks related to reliability, security,
 [Univariate KPI anomaly detection] AIOps Challenge 2018 Datasets: [https://github.com/NetManAIOps/KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)     
 [Univariate KPI anomaly detection] Bagel Datasets: [https://github.com/NetManAIOps/Bagel](https://github.com/NetManAIOps/Bagel)     
 [Univariate KPI anomaly detection] Dount Datasets: [https://github.com/NetManAIOps/donut](https://github.com/NetManAIOps/donut)  
-[Univariate KPI anomaly detection] NAB Datasets: [https://github.com/numenta/NAB](https://github.com/numenta/NAB) 
+[Univariate KPI anomaly detection] NAB Datasets: [https://github.com/numenta/NAB](https://github.com/numenta/NAB)   
 [Univariate KPI anomaly detection] Yahoo's Webscope S5: [https://github.com/waico/SkAB](https://github.com/waico/SkAB)    
 [Multivariate KPIs anomaly detection] OmniAnomaly Datasets: [https://github.com/NetManAIOps/OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly)       
 [Multi-dimension KPIs hotspot localization] AIOps Challenge 2019 Datasets: [https://github.com/NetManAIOps/MultiDimension-Localization](https://github.com/NetManAIOps/MultiDimension-Localization)     
