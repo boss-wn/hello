@@ -162,12 +162,12 @@ They have also been used for a number of tasks related to reliability, security,
 [Python] [Telemanom](https://github.com/khundman/telemanom): A framework for using LSTMs to detect anomalies in multivariate time series data.  
 [Python] [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS): A benchmarking pipeline for anomaly detection on time series data for multiple state-of-the-art deep learning methods.  
 [Python] [NAB](https://github.com/numenta/NAB): The Numenta Anomaly Benchmark: NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications.  
-[Python] [ADTK](https://github.com/arundo/adtk): Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection.
-[Python] [CAD](https://github.com/smirmik/CAD): Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition).
+[Python] [ADTK](https://github.com/arundo/adtk): Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection.     
+[Python] [CAD](https://github.com/smirmik/CAD): Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). 
 [Python] [datastream.io](https://github.com/MentatInnovations/datastream.io): n open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.  
 [Python] [Donut](https://github.com/korepwx/donut): Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders.  
 [Python] [LoudML](https://github.com/regel/loudml): Loud ML is an open source time series inference engine built on top of TensorFlow. It's useful to forecast data, detect outliers, and automate your process using future knowledge.  
-[Python] [luminol](https://github.com/linkedin/luminol): Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly. 
+[Python] [luminol](https://github.com/linkedin/luminol): Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly.  
 [Python] [PyOD](https://pyod.readthedocs.io/en/latest/): PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.  
 [Python] [PyOdds](https://github.com/datamllab/pyodds): PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data.  
 [Pythno] [PySAD](https://github.com/selimfirat/pysad): PySAD is a streaming anomaly detection framework with various online models and complete set of tools for experimentation.  
@@ -176,7 +176,7 @@ They have also been used for a number of tasks related to reliability, security,
 [Python] [Telemanom](https://github.com/khundman/telemanom): A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  
 [Python] [Luminaire](https://github.com/zillow/luminaire): Luminaire is a python package that provides ML driven anomaly detection and forecasting solutions for time series data.  
 [Python] [GluonTS](https://github.com/awslabs/gluon-ts): GluonTS is a Python toolkit for probabilistic time series modeling, built around MXNet. GluonTS provides utilities for loading and iterating over time series datasets, state of the art models ready to be trained, and building blocks to define your own models.  
-[Python] [pmdarima](https://github.com/tgsmith61591/pyramid): Porting of R's _auto.arima_ with a scikit-learn-friendly interface. 
+[Python] [pmdarima](https://github.com/tgsmith61591/pyramid): Porting of R's _auto.arima_ with a scikit-learn-friendly interface.  
 [Python/R] [Prophet](https://github.com/facebook/prophet): Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays.  
 [Python] [PyFlux](https://github.com/RJT1990/pyflux): The library has a good array of modern time series models, as well as a flexible array of inference options (frequentist and Bayesian) that can be applied to these models.  
 [Python] [SaxPy](https://github.com/seninp/saxpy): General implementation of SAX, as well as HOTSAX for anomaly detection.  
